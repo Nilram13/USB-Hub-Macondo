@@ -7,6 +7,6 @@ Now, I've finished the schematics:
 
 ![second/final image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/screenshot_2.png "screenshot_2")
 
-Now I'm beginning with the pcb itself:
+Now I'm beginning the pcb itself:
 
 ![image of the pcb creation tool in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/screenshot_3.png "screenshot_3")
