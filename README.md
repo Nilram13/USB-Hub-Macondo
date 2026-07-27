@@ -18,4 +18,4 @@ I'm designing an PCB Shape in Libre Office Draw
 
 Screenshot of the finished PCB Shape:
 
-![image of the finished pcb shape](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_5.jpg "screenshot_5")
+![image of the finished pcb shape](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_5.jpg"screenshot_5")
