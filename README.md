@@ -23,3 +23,11 @@ Screenshot of the finished PCB Shape:
 Finished the placing of the components:
 
 ![image of the placed components](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_6.png "image_6")
+
+So, now I've finished the routing:
+
+![image of the nearly finished pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_7.png "image_7")
+
+It's finaly finished, after solving some DRC-Problems, yayy:
+
+![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_8.png "image_8")
