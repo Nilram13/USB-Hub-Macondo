@@ -40,3 +40,5 @@ I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one
 
 
 After fixing some shippping problems, I'm ready to ship. But I haven't enough time for getting it founded. So I'm going to opimize my repository.
+
+Later, you will be able to see the project on oshwlab via this [link](https://oshwlab.com/ggmarlin/project_bqvnvcxi).
