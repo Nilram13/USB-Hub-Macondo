@@ -12,7 +12,7 @@ I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one
 ![image of the pcb creation tool in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_3.png "screenshot_3")
 
 
- - I'm designing an PCB Shape in Libre Office Draw
+ - I'm designing an PCB Shape in Libre Office Draw:
 
 ![image of an sketch in Libre Office Draw](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_4.png "screenshot_4")
 
@@ -33,7 +33,7 @@ I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one
 ![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_8.png "screenshot_8")
 
 
- - Ready to order and ready to ship. **Thank you ;)**:
+ - Ready to order and ready to ship. **Thank you ;)**
 
 ![image of the final shopping cart](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_9.png "screenshot_9")
 
