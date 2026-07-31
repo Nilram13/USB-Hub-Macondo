@@ -33,7 +33,7 @@ I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one
 ![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_8.png "screenshot_8")
 
 
- - Ready to order and ready to ship. **Thank you ;)**
+ - Ready to order and ready to ship. **Thank you ;)**:
 
 ![image of the final shopping cart](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_9.png "screenshot_9")
 
