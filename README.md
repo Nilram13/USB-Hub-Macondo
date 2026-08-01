@@ -1,11 +1,11 @@
-# USB-Hub-Macondo
+## USB-Hub-Macondo
 I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one USB-C Port for Input and two USB-C and two USB-A outputs. Together with the guide, I'm designing my own PCB and own 3d printed case.
 
 ![First image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_1.png "screenshot_1")
 
  - Now, I've finished the schematics of the bord:
 
-![second/final image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_2.png "screenshot_2")
+![second/final image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/svg1.svg "svg")
 
  - Now I'm beginning the pcb itself:
 
@@ -43,3 +43,11 @@ After fixing some shipping problems, I'm ready to ship my USB-Hub. But I haven't
 
 
 After the ship ist getting accepted (hopefully), I'm goinig to design an nice case and 3d print it.
+
+
+Cause of problems with oshwlab, I just can give you screenshots of my project page:
+
+![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_10.png "screenshot_10")
+
+![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_11.png "screenshot_11")
+
