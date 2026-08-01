@@ -39,7 +39,6 @@ I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one
 ![image of the final shopping cart](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_9.png "screenshot_9")
 
 
-
 After fixing some shipping problems, I'm ready to ship my USB-Hub. But I haven't enough time for getting it founded. So I'm going to opimize my repository, to "collect" some time.
 
 
