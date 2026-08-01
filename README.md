@@ -47,8 +47,7 @@ After fixing some shipping problems, I'm ready to ship my USB-Hub. But I haven't
 After the ship ist getting accepted (hopefully), I'm goinig to design an nice case and 3d print it.
 
 
-Cause of problems with oshwlab, I just can give you screenshots of my project page:
-
+Unfortunately, there are issues with oshwlab, so I wasn't able to create a link. I hope it works with the files in the repo as well. Screenshots of my oshwlab project page:
 ![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_10.png "screenshot_10")
 
 ![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_11.png "screenshot_11")
