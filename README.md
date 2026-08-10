@@ -2,7 +2,7 @@
 
 USB-Hub-Macondo is a USB hub with one USB-C uplink and two USB-C and two USB-A downlinks. It was created together with the [Macondo (Hack Club) guide](https://macondo.hackclub.com/docs/usb-hub).
 
-![USB-Hub-Macondo 3D Render](https://raw.githubusercontent.com/Nilram13/USB-Hub-Macondo/main/resources/images_README/screenshot_8.png)
+![USB-Hub-Macondo 3D Render](resources/images_README/screenshot_8.png)
 
 ---
 
