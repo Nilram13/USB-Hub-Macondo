@@ -2,8 +2,6 @@
 
 USB-Hub-Macondo is a USB hub with one USB-C uplink and two USB-C and two USB-A downlinks. It was created together with the [Macondo (Hack Club) guide](https://macondo.hackclub.com/docs/usb-hub).
 
-[Link](https://macondo.hackclub.com/projects/15026) to my macondo project.
-
 ![USB-Hub-Macondo 3D Render](https://raw.githubusercontent.com/Nilram13/USB-Hub-Macondo/main/resources/images_README/screenshot_8.png)
 
 ---
@@ -13,7 +11,7 @@ USB-Hub-Macondo is a USB hub with one USB-C uplink and two USB-C and two USB-A d
 * USB-C uplink
 * 2 × USB-C & 2 × USB-A downlinks
 * SL2.1S from CoreChips
-* [Link](https://macondo.hackclub.com/projects/1502) to Macondo project
+* [Link](https://macondo.hackclub.com/projects/15026) to Macondo project
 * USB 2.0
 
 ---
