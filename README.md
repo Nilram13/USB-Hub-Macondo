@@ -1,54 +1,47 @@
-## USB-Hub-Macondo
-I'm creating my own **USB-Hub** with the **Macondo Guide**. I'm going to use one USB-C Port for Input and two USB-C and two USB-A outputs. Together with the guide, I'm designing my own PCB and own 3d printed case.
+# USB-Hub-Macondo
 
-![First image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_1.png "screenshot_1")
+USB-Hub-Macondo is a USB hub with one USB-C uplink and two USB-C and two USB-A downlinks. It was created together with the [Macondo (Hack Club) guide](https://macondo.hackclub.com/projects/1502).
 
- - Now, I've finished the schematics of the bord:
+![USB-Hub-Macondo 3D Render](https://raw.githubusercontent.com/Nilram13/USB-Hub-Macondo/main/resources/images_README/screenshot_8.png)
 
-![second/final image of my schematic in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/svg1.svg "svg")
+---
 
- - Now I'm beginning the pcb itself:
+### Highlights:
 
-![image of the pcb creation tool in easyeda pro](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_3.png "screenshot_3")
+* USB-C uplink
+* 2 × USB-C & 2 × USB-A downlinks
+* SL2.1S from CoreChips
+* [Link](https://macondo.hackclub.com/projects/1502) to Macondo project
+* USB 2.0
 
+---
 
- - I'm designing an PCB Shape in Libre Office Draw:
+### Overview:
 
-![image of an sketch in Libre Office Draw](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_4.png "screenshot_4")
+A USB hub is a device to make multiple USB ports out of one. This hub just uses one of your USB-C ports, but you're getting four ports (3 additional ones) out of the hub.  
+The hub uses USB 2.0.
 
- - Screenshot of the finished PCB Shape:
+---
 
-![image of the finished pcb shape](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/image_5.png "image_5")
+### Price:
 
- - Finished the placing of the components on the pcb:
+With fast shipping to Germany from JLCPCB, 5 boards (soldered) cost about $45.
 
-![image of the placed components](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_6.png "screenshot_6")
+---
 
- - So, now I've finished the routing of the connections on the pcb:
+### Resources:
 
-![image of the nearly finished pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_7.png "screenshot_7")
+You can find all the relevant files in the `resources` folder, including:
 
- - It's finaly finished, after solving some DRC-Problems, **yayy**:
+* `images_README/`
+* `BOM_Board1_Schematic1_2026-07-28.csv`
+* `PCB_PCB1_2026-08-01.pdf`
+* `pcb_shape.dxf`
+* `PickAndPlace_PCB1_2026_07_31.csv`
+* `ProDoc_P1_2026-07-28.epro2`
 
-![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_8.png "screenshot_8")
+---
 
-![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_12.png "screenshot_12")
+### License:
 
-![image of the final pcb](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_13.png "screenshot_13")
-
- - Ready to order and ready to ship. **Thank you ;)**
-
-![image of the final shopping cart](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_9.png "screenshot_9")
-
-
-After fixing some shipping problems, I'm ready to ship my USB-Hub. But I haven't enough time for getting it founded. So I'm going to opimize my repository, to "collect" some time.
-
-
-After the ship ist getting accepted (hopefully), I'm goinig to design an nice case and 3d print it.
-
-
-Unfortunately, there are issues with oshwlab, so I wasn't able to create a link. I hope it works with the files in the repo as well. Screenshots of my oshwlab project page:
-![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_10.png "screenshot_10")
-
-![image of my owshlab project page](https://github.com/Nilram13/USB-Hub-Macondo/blob/main/resources/images_README/screenshot_11.png "screenshot_11")
-
+This project is open-source hardware licensed under the [MIT License](LICENSE).
