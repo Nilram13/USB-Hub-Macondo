@@ -31,14 +31,16 @@ With fast shipping to Germany from JLCPCB, 5 boards (soldered) cost about $45.
 
 ### Resources:
 
-You can find all the relevant files in the `resources` folder, including:
+You can find all the relevant files in the [`resources/`](./resources) folder, including:
 
-* `images_README/`
-* `BOM_Board1_Schematic1_2026-07-28.csv`
-* `PCB_PCB1_2026-08-01.pdf`
-* `pcb_shape.dxf`
-* `PickAndPlace_PCB1_2026_07_31.csv`
-* `ProDoc_P1_2026-07-28.epro2`
+* 📄 [Schematic (PDF)](resources/schematic.pdf)
+* 🖨️ [PCB Layout (PDF)](resources/PCB.pdf)
+* 📦 [Gerber Fabrication Files (ZIP)](resources/Gerber_files.zip)
+* 🧊 [3D Model (STEP)](resources/3D_modell.step)
+* 📊 [Bill of Materials (BOM)](resources/BOM.csv)
+* 🤖 [Pick and Place CSV](resources/PickAndPlace.csv)
+* 💻 [EasyEDA Pro Project Source](resources/project.epro2)
+* 🖥️ [PCB Schematic](resources/dxf_pcb_schematic.zip)
 
 ---
 
